@@ -21,7 +21,7 @@ body, html {
 .footerContent {
     float:left;
     width:100%;
-    background-color:#555;
+    background-color:darkblue;
     padding:20px 0;
 }
 .footer p {float:left; width:100%; text-align:center; }
